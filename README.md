@@ -1,1 +1,1 @@
-My first readme
+This GitHub repository contains all the projects that will be worked on during the software engineering program. Each project will have its own directory within the repository, containing the project files and any necessary documentation. Each project directory will also have its own README file, which will provide information on how to install, use, and contribute to the project. This repository serves as a central location for all the projects, making it easy to manage and track progress throughout the program.
